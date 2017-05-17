@@ -1,0 +1,12 @@
+C:\Users\Emanuel\Desktop\Weight Program C#\Weight Tracker with DB\Weight Tracker with DB\bin\Debug\Weight Tracker with DB.exe.config
+C:\Users\Emanuel\Desktop\Weight Program C#\Weight Tracker with DB\Weight Tracker with DB\bin\Debug\Weight Tracker with DB.exe
+C:\Users\Emanuel\Desktop\Weight Program C#\Weight Tracker with DB\Weight Tracker with DB\bin\Debug\Weight Tracker with DB.pdb
+C:\Users\Emanuel\Desktop\Weight Program C#\Weight Tracker with DB\Weight Tracker with DB\bin\Debug\MySql.Data.dll
+C:\Users\Emanuel\Desktop\Weight Program C#\Weight Tracker with DB\Weight Tracker with DB\obj\Debug\Weight Tracker with DB.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\Weight Program C#\Weight Tracker with DB\Weight Tracker with DB\obj\Debug\Weight_Tracker_with_DB.Form1.resources
+C:\Users\Emanuel\Desktop\Weight Program C#\Weight Tracker with DB\Weight Tracker with DB\obj\Debug\Weight_Tracker_with_DB.Properties.Resources.resources
+C:\Users\Emanuel\Desktop\Weight Program C#\Weight Tracker with DB\Weight Tracker with DB\obj\Debug\Weight Tracker with DB.csproj.GenerateResource.Cache
+C:\Users\Emanuel\Desktop\Weight Program C#\Weight Tracker with DB\Weight Tracker with DB\obj\Debug\Weight Tracker with DB.exe
+C:\Users\Emanuel\Desktop\Weight Program C#\Weight Tracker with DB\Weight Tracker with DB\obj\Debug\Weight Tracker with DB.pdb
+C:\Users\Emanuel\Desktop\Weight Program C#\Weight Tracker with DB\Weight Tracker with DB\obj\Debug\Weight_Tracker_with_DB.popUp.resources
+C:\Users\Emanuel\Desktop\Weight Program C#\Weight Tracker with DB\Weight Tracker with DB\obj\Debug\Weight_Tracker_with_DB.graphForm.resources

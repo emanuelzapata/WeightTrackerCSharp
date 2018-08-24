@@ -5,4 +5,4 @@ This application connects to an Oracle 11g Database on the local machine to stor
 
 Once the user closes out the program they will recieve a popup to show them that they have disconnected from the database.
 
-![picture](WeightTrackerCSharp/main.JPG)
+![picture](https://raw.githubusercontent.com/emanuelzapata/WeightTrackerCSharp/master/main.JPG)

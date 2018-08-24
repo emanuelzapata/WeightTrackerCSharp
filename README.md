@@ -8,8 +8,8 @@ Once the user closes out the program they will recieve a popup to show them that
 ![picture](https://github.com/emanuelzapata/WeightTrackerCSharp/blob/master/main_initial_setup.JPG?raw=true)
 ![picture](https://raw.githubusercontent.com/emanuelzapata/WeightTrackerCSharp/master/main.JPG)
 
-![picture](https://github.com/emanuelzapata/WeightTrackerCSharp/blob/master/main_Graph_popup.JPG?raw=true)
 ![picture](https://github.com/emanuelzapata/WeightTrackerCSharp/blob/master/main_Graph.JPG?raw=true)
+![picture](https://github.com/emanuelzapata/WeightTrackerCSharp/blob/master/main_Graph_popup.JPG?raw=true)
 
 ![picture](https://github.com/emanuelzapata/WeightTrackerCSharp/blob/master/main_weightWarning.JPG?raw=true)
 ![picture](https://github.com/emanuelzapata/WeightTrackerCSharp/blob/master/main_WithWeightWarning.JPG?raw=true)

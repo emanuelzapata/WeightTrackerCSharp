@@ -18,14 +18,14 @@ namespace Weight_Tracker_with_DB
     {
         //conn is placed here so it it accessible to other functions;
         MySqlConnection conn = new MySqlConnection();
-        MySqlConnection gdConn = new MySqlConnection(); // test connection for MYSQL online database from goDaddy. WORKING!
+        MySqlConnection gdConn = new MySqlConnection(); // test connection for MYSQL online database from . WORKING!
         bool connectionStatus;
         public Form1()
         {
             InitializeComponent();
           /*  try
             {
-                string connection = "Server=198.71.227.96;Database=weightTracker;Uid=emanuelzapata;Pwd=Sk8ordie!6";
+                string connection = "Server=;Database=weightTracker;Uid=emanuelzapata;Pwd=Sk8ordie!6";
                 gdConn.ConnectionString = connection;
                 gdConn.Open();
                 if(gdConn.State == ConnectionState.Open)
